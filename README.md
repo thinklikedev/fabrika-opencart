@@ -14,6 +14,7 @@
 На данный момент главная страница не адаптированна под мобильные устройства 
 
 **Пример**
+
 ![Logo](https://img001.prntscr.com/file/img001/boEZWNalTpGOMs_ml5z3zg.png)
 
 
